@@ -23,7 +23,8 @@
                     </ul>
                 </li>
                 {% else %}
-                <li><a href="{{ menu_item.link | prepend: site.baseurl }}" {% if menu_item.new_window %}target="_blank"
+                <!-- <li><a href="{{ menu_item.link | prepend: site.baseurl }}" {% if menu_item.new_window %}target="_blank" -->
+                <li><a href="{{ menu_item.link }}" {% if menu_item.new_window %}target="_blank"
                         {% endif %}>{{ menu_item.title }}</a></li>
                 {% endif %}
                 {% endfor %}
