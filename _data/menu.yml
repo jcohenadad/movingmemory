@@ -1,10 +1,9 @@
 - title: Home
   link: /index.html
-- title: Media
-  link: www.neuro.polymtl.ca
-  # link: http://www.concordia.ca/cunews/main/stories/2016/05/31/new-multimedia-exhibit-explores-the-armenian-and-roma-genocides.html
-  new_window: true
 - title: Exhibit
   link: /exhibit.html
+- title: Media
+  link: http://www.concordia.ca/cunews/main/stories/2016/05/31/new-multimedia-exhibit-explores-the-armenian-and-roma-genocides.html
+  new_window: true
 - title: Acknowledgements
   link: /acknowledgements.html
