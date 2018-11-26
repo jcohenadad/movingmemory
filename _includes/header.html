@@ -24,7 +24,7 @@
                     </ul>
                 </li>
                 {% else %}
-                  {% if menu_item.title == "Media" %}
+                  {% if menu_item.title == Media %}
                     <li><a href="{{ menu_item.link }}">{{ menu_item.title }}</a></li>
                   {% else %}
                     <li><a href="{{ menu_item.link | prepend: site.baseurl }}">{{ menu_item.title }}</a></li>
