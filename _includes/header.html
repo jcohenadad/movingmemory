@@ -18,13 +18,14 @@
                     </a>
                     <ul class="dropdown-menu">
                         {% for sub_menu_item in menu_item.submenu %}
-                        <li><a href="{{ sub_menu_item.link | prepend: site.baseurl }}">{{ sub_menu_item.title }}</a></li>
+                        <!-- <li><a href="{{ sub_menu_item.link | prepend: site.baseurl }}">{{ sub_menu_item.title }}</a></li> -->
+                        <li><a href="{{ sub_menu_item.link }}">{{ sub_menu_item.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </li>
                 {% else %}
                 <!-- <li><a href="{{ menu_item.link | prepend: site.baseurl }}" {% if menu_item.new_window %}target="_blank" -->
-                <li><a href="{{ menu_item.link }}" {% if menu_item.new_window %}target="_blank"
+                <li><a href="{{ menu_item.link | prepend: site.baseurl }}" {% if menu_item.new_window %}target="_blank"
                         {% endif %}>{{ menu_item.title }}</a></li>
                 {% endif %}
                 {% endfor %}
