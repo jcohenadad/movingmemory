@@ -12,7 +12,6 @@ This question guides our collaborative exhibition about commemoration of the Arm
 
 ![]({{ "assets/exhibit_setup.png" | absolute_url }}){:style="float: left; margin-right: 25px; width: 700px"}
 
-
 This exhibit does not offer definitive solutions. But after months of shared conversation and curatorial experiments, we see value in the search for links in broader themes of injustice, marginalization, denial, and commemoration. Our approach lies in our title: Moving Memory.
 
 By moving memory, we mean traveling fluidly between historical tragedy and current injustice to reveal how past violence often returns in new guises. Our aim is to make these links both apparent and urgent, emphasizing the consequences of ignoring such repetition.
@@ -21,6 +20,10 @@ We also mean connecting the gallery with other spaces, so less-publicized memori
 
 We mean transcending the physical space of the gallery and entering the digital realm so that far-flung sites of memory come close enough for immediate conversation and debate, and can be archived for later access and broader circulation.
 
+![]({{ "assets/exhibit_launch.png" | absolute_url }}){:style="float: left; margin-right: 25px; width: 700px"}
+
 Finally, by moving we mean an emotional state. We do not shy away from painful confrontations, nor tough questions about how memory can be politicized.
 
 This is an exhibit about two histories of violence that have been met with denial and exclusion. It is also an experiment in curating scholarship, in making visible, tangible, and interactive our many years of fieldwork, archival research, and community engagement. This is our attempt to envision and create broader, more interconnected social arenas where memory about historical violence can be set in motion, and can do the work of moving.
+
+![]({{ "assets/exhibit_hourig.png" | absolute_url }}){:style="float: left; margin-right: 25px; width: 700px"}
