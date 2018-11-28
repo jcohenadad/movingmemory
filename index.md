@@ -29,6 +29,6 @@ Related Event: A Public-Panel-Relay
 
 &nbsp;
 
-**Hourig Attarian sets up her installation, “Threading a map, spinning life stories” (Photo credit: Shahrzad Arshadi)**
+**Hourig Attarian sets up her installation, “Threading a Map, Spinning Life Stories” (Photo credit: Shahrzad Arshadi)**
 
 ![MovingMemoryLogo]({{ "assets/hourig_exhibit.png" | absolute_url }}){:style="float: left; margin-right: 25px; width: 700px"}
